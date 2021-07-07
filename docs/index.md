@@ -1,5 +1,6 @@
 ## Werewolf Girl Coin
 
+![Logo](docs/Werewolf-Girl-Coin.png)
 A cryptocurrency for werewolf girl enthusiasts! Add some Werewolf Girl Coin to your Ethereum address to show your support for werewolf girls!
 
 ### Legal Disclaimer
