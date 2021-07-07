@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Werewolf Girl Coin
 
-You can use the [editor on GitHub](https://github.com/werewolfgirl/werewolfgirlcoin/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+A cryptocurrency for werewolf girl enthusiasts! Add some Werewolf Girl Coin to your Ethereum address to show your support for werewolf girls!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Legal Disclaimer
 
-### Markdown
+This coin is ONLY FOR DECORATIONAL PURPOSES and should not be considered an investment of any form. It has literally no features of any kind besides being an ERC20 token. I literally found the sample code on a random website. I am not responsible for any financial damage caused by this coin. Do not actually give me money unless you don't want it anymore. Warranty void if exposed to air. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### ICO 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/werewolfgirl/werewolfgirlcoin/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+So I don't actually have enough ethereum to deploy the smart contract for this token anywhere besides the Ropsten testnet (which you can check out at https://ropsten.etherscan.io/token/0x2491c96e0959a497823b195a52c3d28f13585043). Any donations at 0x23d349a1801B56457C82F009B6B79D3391f5a2c8 would be appreciated and supporters will recieve anywhere ranging from 0 to 1 quadrillion Werewolf Girl Coins, picked randomly, if we ever get enough ETH to fund the contract (please be sensible and do not actually waste your money on this project).
